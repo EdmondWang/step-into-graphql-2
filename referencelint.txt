@@ -1,1 +1,2 @@
-https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
+Blog: https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474
+Offical Document: https://mongoosejs.com/docs/index.html
